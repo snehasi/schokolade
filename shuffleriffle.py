@@ -1,4 +1,4 @@
-#sneha sinha, roll no-2016098,group-A1
+
 def shuffle(mylist):
     length=len(mylist)
     newlength=length//2
